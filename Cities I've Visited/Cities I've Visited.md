@@ -3,3 +3,4 @@ Turkey
 Ankara
 Antalya
 İstanbul
+Czech Republic
